@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name = "GreedUPPayPlugin"
-  s.version = "3.3.0.1"
+  s.version = "3.3.3"
   s.license = "MIT"
   s.summary = "IOS版银联手机控件支付开发"
   s.homepage = "https://github.com/greedlab/GreedUPPayPlugin"
